@@ -1,0 +1,8 @@
+{
+  "name": "@user/id-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:robertPalczewski/id-generator.git",
+  "author": "Robert Palczewski <robert.palczewski@gmail.com>",
+  "license": "MIT"
+}
