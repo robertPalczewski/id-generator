@@ -1,5 +1,5 @@
 {
-  "name": "@user/id-generator",
+  "name": "@robertpalczewski/randomID",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:robertPalczewski/id-generator.git",
